@@ -1,5 +1,5 @@
 # Credit_Card_Report_Analysis
-Overview
+## Overview
 This project involves creating a database for credit card report analysis. The steps include preparing a CSV file, creating tables in SQL, and importing the CSV file into the SQL database. Additionally, DAX queries are used for data analysis and generating insights.
 Table of Contents
 Overview
@@ -23,12 +23,10 @@ Use the following SQL query to import data from the CSV file into the SQL table
 Project Insights
 Week 53 (31st Dec)
 
-WoW Change:
+## WoW Change:
   1. Revenue increased by 28.8%
-  2. Total Transaction Amount & Count increased by xx% & xx%
-  3. Customer count increased by xx%
-
-Overview YTD
+  
+## Overview YTD
   1. Overall revenue is 57M
   2. Total interest is 8M
   3. Total transaction amount is 46M
